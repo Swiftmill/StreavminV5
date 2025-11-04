@@ -1,0 +1,90 @@
+{
+  "slug": "echoes-of-neon",
+  "title": "Echoes of Neon",
+  "synopsis": "Une détective cybernétique cherche l'origine d'un signal qui rend les citoyens incontrôlables.",
+  "genres": [
+    "Science-Fiction",
+    "Anime"
+  ],
+  "tags": [
+    "cyberpunk",
+    "mystère"
+  ],
+  "poster": "/images/echoes-of-neon.jpg",
+  "hero": false,
+  "published": true,
+  "createdAt": "2024-09-05T11:00:00.000Z",
+  "updatedAt": "2024-09-23T11:00:00.000Z",
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "poster": "/images/echoes-of-neon-s1.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "ep": 1,
+          "title": "Signal",
+          "synopsis": "Un concert tourne au chaos lorsqu'un signal pirate envahit la ville.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "subtitles": [],
+          "published": true
+        },
+        {
+          "season": 1,
+          "ep": 2,
+          "title": "Spectres",
+          "synopsis": "L'équipe remonte la piste d'un collectif d'artistes rebelles.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "subtitles": [],
+          "published": true
+        },
+        {
+          "season": 1,
+          "ep": 3,
+          "title": "Silence",
+          "synopsis": "Le signal disparaît mystérieusement et laisse un vide inquiétant.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+          "subtitles": [],
+          "published": true
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "poster": "/images/echoes-of-neon-s2.jpg",
+      "episodes": [
+        {
+          "season": 2,
+          "ep": 1,
+          "title": "Réverbère",
+          "synopsis": "La détective découvre que le signal est d'origine extraterrestre.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+          "subtitles": [],
+          "published": true
+        },
+        {
+          "season": 2,
+          "ep": 2,
+          "title": "Fractale",
+          "synopsis": "Des clones numériques infiltrent la ville basse.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "subtitles": [],
+          "published": true
+        },
+        {
+          "season": 2,
+          "ep": 3,
+          "title": "Lueur",
+          "synopsis": "La détective conclut un pacte avec l'intelligence à l'origine du signal.",
+          "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "subtitles": [],
+          "published": true
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "anime",
+    "trending"
+  ]
+}
