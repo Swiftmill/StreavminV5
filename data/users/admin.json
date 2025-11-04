@@ -1,0 +1,8 @@
+{
+  "username": "admin",
+  "role": "admin",
+  "passHash": "scrypt$16384$8$1$sZPHSLC7pEjOLmJP7qF3cA==$OLyPCfbsdTA5GHqeoz8e8EUGR2Sn6EqjrrPU/giCfbhpYsYndCIJQ6a/EunSmzBf31ndB3DzK67T0RvBnK/C+g==",
+  "disabled": false,
+  "createdAt": "2024-09-01T08:00:00.000Z",
+  "updatedAt": "2024-09-01T08:00:00.000Z"
+}

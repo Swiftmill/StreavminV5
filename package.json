@@ -1,0 +1,21 @@
+{
+  "name": "streavminv5",
+  "version": "1.0.0",
+  "description": "File-based streaming platform with admin panel and Netflix-style frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node scripts/seed.js",
+    "backup": "node scripts/backup.js",
+    "lint:catalog": "node scripts/lint-catalog.js"
+  },
+  "keywords": [
+    "streaming",
+    "file-based",
+    "netflix",
+    "express-less"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}

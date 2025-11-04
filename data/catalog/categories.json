@@ -1,0 +1,30 @@
+[
+  {
+    "id": "trending",
+    "title": "Tendances",
+    "order": 1,
+    "type": "dynamic",
+    "description": "Contenus les plus populaires de la semaine"
+  },
+  {
+    "id": "new",
+    "title": "Nouveautés",
+    "order": 2,
+    "type": "dynamic",
+    "description": "Dernières sorties ajoutées à la plateforme"
+  },
+  {
+    "id": "action",
+    "title": "Action",
+    "order": 3,
+    "type": "manual",
+    "description": "Adrénaline et cascades spectaculaires"
+  },
+  {
+    "id": "anime",
+    "title": "Anime",
+    "order": 4,
+    "type": "manual",
+    "description": "Sélection d'animés cultes"
+  }
+]
